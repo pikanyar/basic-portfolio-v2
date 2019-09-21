@@ -1,0 +1,161 @@
+* {
+    box-sizing: border-box;  
+  }
+
+body {
+   font-family: Arial, Helvetica, sans-serif;
+   background: url(white-waves.png);
+   font-size: 18px;
+   text-decoration: none;
+   color: #777777;  
+}
+
+header {
+    position: relative;
+    display: block; 
+    margin: 0 auto;
+    padding: 1rem 5 rem;
+    background-color: #ffffff;
+    border-bottom-color: #cccccc;
+    border: 20px;
+    margin-top: 20px;
+    margin-top: 10px;
+    padding-right: 17px;
+    padding-bottom: 15px;
+}
+
+header h5 {
+    line-height: 45px;
+    font-size: 2rem;
+    margin: 0;
+    display: inline;
+    background: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 250px;
+    color: #ffffff;
+    padding-top: 4px;
+    padding-bottom: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+nav {
+    padding-left: 15px;
+    margin-bottom: 0;
+    margin-top: 15px;
+    list-style: none;
+    float: right;
+    display: inline;
+    margin-right: 280px;
+    color: #777777;
+}
+
+nav  li {
+    position: relative;
+    display: inline-block;
+    list-style-type: none;
+    font-family: "Open Sans", "Droid Sans", Helvetica, Arial, sans-serif;
+    color: #222;
+    padding: 0 1rem;
+}
+
+nav li > a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+
+nav > li > a:hover
+nav > li > a:focus {
+    text-decoration: none;
+    background-color: #eee;
+}
+
+
+
+h1 {
+    color: #4aaaa5;
+}
+
+.container {
+    background-color: #ffffff;
+    padding-left: 20px;
+    padding-left: 20px;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+
+
+
+img {
+    float: left;
+    margin: 11px;
+}
+
+
+
+#main {
+    padding: 20px;
+}
+
+.main-header {
+    background-color: #ffffff;
+    border-color: #dddddd;
+    border: 5px;
+    padding-left: 12px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    margin-top: 40px;
+    margin-left: 250px;
+    margin-bottom: 50px;
+    width: 100%;
+    max-width: 960px;
+    border: 20px;
+    float: left;
+   
+}
+
+h2 {
+    color: #4aaaa5;
+}
+
+.row {
+    position: relative;
+}
+
+.image {
+    color: #777777;
+    margin: 10px;
+    float: left;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 12px;
+    border-color: #666666;
+    border: 5px;
+   
+}
+
+
+
+
+
+
+footer {
+    background-color: #666666;
+    border-top: solid #4aaaa5 8px;
+    text-align: center;
+    width: 100%;
+    clear: both;
+    margin-top: 80px;
+    padding-bottom: 20px;
+    color: #cccccc;
+}
+
+
+.image h2 {
+   
+    position: relative;
+    bottom: 20px;
+}
